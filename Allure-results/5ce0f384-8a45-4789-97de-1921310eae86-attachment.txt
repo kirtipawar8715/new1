@@ -1,0 +1,9 @@
+[32mINFO    [0m Test_Login_001:test_Credkart_login_001.py:47 test_verify_login_002 is started
+[32mINFO    [0m Test_Login_001:test_Credkart_login_001.py:48 Opening the login page-->https://automation.credence.in/login
+[32mINFO    [0m Test_Login_001:test_Credkart_login_001.py:51 Enter email
+[32mINFO    [0m Test_Login_001:test_Credkart_login_001.py:53 Enter password
+[32mINFO    [0m Test_Login_001:test_Credkart_login_001.py:55 Click login button
+[32mINFO    [0m Test_Login_001:test_Credkart_login_001.py:57 Verify login
+[32mINFO    [0m Test_Login_001:test_Credkart_login_001.py:59 test_verify_login_002 is passed
+[32mINFO    [0m Test_Login_001:test_Credkart_login_001.py:60 Taking screenshot
+[32mINFO    [0m Test_Login_001:test_Credkart_login_001.py:68 test_verify_login_002 is completed

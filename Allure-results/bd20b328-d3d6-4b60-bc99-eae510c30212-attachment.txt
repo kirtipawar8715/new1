@@ -1,0 +1,13 @@
+[32mINFO    [0m Test_Registration_002:test_Credkart_registration_002.py:24 test_registration_002 is started
+[32mINFO    [0m Test_Registration_002:test_Credkart_registration_002.py:25 Opening the registration page-->https://automation.credence.in/register
+[32mINFO    [0m Test_Registration_002:test_Credkart_registration_002.py:30 Enter name-->Autumn
+[32mINFO    [0m Test_Registration_002:test_Credkart_registration_002.py:32 Enter email-->vsanders@example.com
+[32mINFO    [0m Test_Registration_002:test_Credkart_registration_002.py:34 Enter password
+[32mINFO    [0m Test_Registration_002:test_Credkart_registration_002.py:36 Enter confirm password
+[32mINFO    [0m Test_Registration_002:test_Credkart_registration_002.py:38 Click register button
+[32mINFO    [0m Test_Registration_002:test_Credkart_registration_002.py:40 Verify registration
+[32mINFO    [0m Test_Registration_002:test_Credkart_registration_002.py:42 test_registration_002 is passed
+[32mINFO    [0m Test_Registration_002:test_Credkart_registration_002.py:43 Taking screenshot
+[32mINFO    [0m Test_Registration_002:test_Credkart_registration_002.py:45 Click menu button
+[32mINFO    [0m Test_Registration_002:test_Credkart_registration_002.py:47 Click logout button
+[32mINFO    [0m Test_Registration_002:test_Credkart_registration_002.py:55 test_registration_002 is completed

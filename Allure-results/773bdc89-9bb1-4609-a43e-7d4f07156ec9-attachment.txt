@@ -1,0 +1,7 @@
+[32mINFO    [0m Test_Checkout_003:test_Credkart_Checkout_003.py:17 test_checkout_004 is started
+[32mINFO    [0m Test_Checkout_003:test_Credkart_Checkout_003.py:18 Opening the login page-->https://automation.credence.in/login
+[32mINFO    [0m Test_Checkout_003:test_Credkart_Checkout_003.py:21 Enter email
+[32mINFO    [0m Test_Checkout_003:test_Credkart_Checkout_003.py:23 Enter password
+[32mINFO    [0m Test_Checkout_003:test_Credkart_Checkout_003.py:25 Click login button
+[32mINFO    [0m Test_Checkout_003:test_Credkart_Checkout_003.py:27 Click product button
+[32mINFO    [0m Test_Checkout_003:test_Credkart_Checkout_003.py:29 Click proceed to checkout button

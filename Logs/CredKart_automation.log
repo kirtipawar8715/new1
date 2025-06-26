@@ -1,0 +1,179 @@
+2025-06-22 10:48:43,126 : INFO : Test_Login_001 : test_verify_title_001 : 24 -->  test_verify_title_001 is started
+2025-06-22 10:48:43,128 : INFO : Test_Login_001 : test_verify_title_001 : 25 -->  Opening the login page-->https://automation.credence.in/login
+2025-06-22 10:48:44,541 : INFO : Test_Login_001 : test_verify_title_001 : 27 -->  verifying page title
+2025-06-22 10:48:44,560 : INFO : Test_Login_001 : test_verify_title_001 : 28 -->  Title of the page-->CredKart
+2025-06-22 10:48:44,568 : INFO : Test_Login_001 : test_verify_title_001 : 30 -->  test_verify_title_001 is passed
+2025-06-22 10:48:44,569 : INFO : Test_Login_001 : test_verify_title_001 : 31 -->  Taking screenshot
+2025-06-22 10:48:45,219 : INFO : Test_Login_001 : test_verify_title_001 : 39 -->  test_verify_title_001 is completed
+2025-06-22 10:48:45,225 : INFO : Test_Login_001 : test_verify_login_002 : 47 -->  test_verify_login_002 is started
+2025-06-22 10:48:45,225 : INFO : Test_Login_001 : test_verify_login_002 : 48 -->  Opening the login page-->https://automation.credence.in/login
+2025-06-22 10:48:45,635 : INFO : Test_Login_001 : test_verify_login_002 : 51 -->  Enter email
+2025-06-22 10:48:45,982 : INFO : Test_Login_001 : test_verify_login_002 : 53 -->  Enter password
+2025-06-22 10:48:46,172 : INFO : Test_Login_001 : test_verify_login_002 : 55 -->  Click login button
+2025-06-22 10:48:48,770 : INFO : Test_Login_001 : test_verify_login_002 : 57 -->  Verify login
+2025-06-22 10:48:48,819 : INFO : Test_Login_001 : test_verify_login_002 : 59 -->  test_verify_login_002 is passed
+2025-06-22 10:48:48,820 : INFO : Test_Login_001 : test_verify_login_002 : 60 -->  Taking screenshot
+2025-06-22 10:48:49,115 : INFO : Test_Login_001 : test_verify_login_002 : 68 -->  test_verify_login_002 is completed
+2025-06-22 10:49:38,635 : INFO : Test_Login_001 : test_verify_login_002 : 47 -->  test_verify_login_002 is started
+2025-06-22 10:49:38,636 : INFO : Test_Login_001 : test_verify_login_002 : 48 -->  Opening the login page-->https://automation.credence.in/login
+2025-06-22 10:49:38,835 : INFO : Test_Login_001 : test_verify_title_001 : 24 -->  test_verify_title_001 is started
+2025-06-22 10:49:38,836 : INFO : Test_Login_001 : test_verify_title_001 : 25 -->  Opening the login page-->https://automation.credence.in/login
+2025-06-22 10:49:39,986 : INFO : Test_Login_001 : test_verify_login_002 : 51 -->  Enter email
+2025-06-22 10:49:40,271 : INFO : Test_Login_001 : test_verify_title_001 : 27 -->  verifying page title
+2025-06-22 10:49:40,308 : INFO : Test_Login_001 : test_verify_title_001 : 28 -->  Title of the page-->CredKart
+2025-06-22 10:49:40,595 : INFO : Test_Login_001 : test_verify_title_001 : 30 -->  test_verify_title_001 is passed
+2025-06-22 10:49:40,595 : INFO : Test_Login_001 : test_verify_title_001 : 31 -->  Taking screenshot
+2025-06-22 10:49:40,898 : INFO : Test_Login_001 : test_verify_login_002 : 53 -->  Enter password
+2025-06-22 10:49:41,039 : INFO : Test_Login_001 : test_verify_title_001 : 39 -->  test_verify_title_001 is completed
+2025-06-22 10:49:41,344 : INFO : Test_Login_001 : test_verify_login_002 : 55 -->  Click login button
+2025-06-22 10:49:43,542 : INFO : Test_Login_001 : test_verify_login_002 : 57 -->  Verify login
+2025-06-22 10:49:43,585 : INFO : Test_Login_001 : test_verify_login_002 : 59 -->  test_verify_login_002 is passed
+2025-06-22 10:49:43,585 : INFO : Test_Login_001 : test_verify_login_002 : 60 -->  Taking screenshot
+2025-06-22 10:49:43,937 : INFO : Test_Login_001 : test_verify_login_002 : 68 -->  test_verify_login_002 is completed
+2025-06-22 11:06:32,110 : INFO : Test_Registration_002 : test_registration_002 : 24 -->  test_registration_002 is started
+2025-06-22 11:06:32,111 : INFO : Test_Registration_002 : test_registration_002 : 25 -->  Opening the registration page-->https://automation.credence.in/register
+2025-06-22 11:06:33,550 : INFO : Test_Registration_002 : test_registration_002 : 30 -->  Enter name-->Autumn
+2025-06-22 11:06:33,846 : INFO : Test_Registration_002 : test_registration_002 : 32 -->  Enter email-->vsanders@example.com
+2025-06-22 11:06:34,157 : INFO : Test_Registration_002 : test_registration_002 : 34 -->  Enter password
+2025-06-22 11:06:34,418 : INFO : Test_Registration_002 : test_registration_002 : 36 -->  Enter confirm password
+2025-06-22 11:06:34,688 : INFO : Test_Registration_002 : test_registration_002 : 38 -->  Click register button
+2025-06-22 11:06:37,410 : INFO : Test_Registration_002 : test_registration_002 : 40 -->  Verify registration
+2025-06-22 11:06:37,443 : INFO : Test_Registration_002 : test_registration_002 : 42 -->  test_registration_002 is passed
+2025-06-22 11:06:37,443 : INFO : Test_Registration_002 : test_registration_002 : 43 -->  Taking screenshot
+2025-06-22 11:06:37,715 : INFO : Test_Registration_002 : test_registration_002 : 45 -->  Click menu button
+2025-06-22 11:06:37,848 : INFO : Test_Registration_002 : test_registration_002 : 47 -->  Click logout button
+2025-06-22 11:06:38,020 : INFO : Test_Registration_002 : test_registration_002 : 55 -->  test_registration_002 is completed
+2025-06-22 11:29:01,470 : INFO : Test_Checkout_003 : test_checkout_004 : 17 -->  test_checkout_004 is started
+2025-06-22 11:29:01,471 : INFO : Test_Checkout_003 : test_checkout_004 : 18 -->  Opening the login page-->https://automation.credence.in/login
+2025-06-22 11:29:02,912 : INFO : Test_Checkout_003 : test_checkout_004 : 21 -->  Enter email
+2025-06-22 11:29:03,742 : INFO : Test_Checkout_003 : test_checkout_004 : 23 -->  Enter password
+2025-06-22 11:29:03,976 : INFO : Test_Checkout_003 : test_checkout_004 : 25 -->  Click login button
+2025-06-22 11:29:04,159 : INFO : Test_Checkout_003 : test_checkout_004 : 27 -->  Click product button
+2025-06-22 11:29:07,032 : INFO : Test_Checkout_003 : test_checkout_004 : 29 -->  Click proceed to checkout button
+2025-06-22 11:32:37,171 : INFO : Test_Checkout_003 : test_checkout_004 : 17 -->  test_checkout_004 is started
+2025-06-22 11:32:37,171 : INFO : Test_Checkout_003 : test_checkout_004 : 18 -->  Opening the login page-->https://automation.credence.in/login
+2025-06-22 11:32:38,329 : INFO : Test_Checkout_003 : test_checkout_004 : 21 -->  Enter email
+2025-06-22 11:32:38,975 : INFO : Test_Checkout_003 : test_checkout_004 : 23 -->  Enter password
+2025-06-22 11:32:39,222 : INFO : Test_Checkout_003 : test_checkout_004 : 25 -->  Click login button
+2025-06-22 11:32:39,392 : INFO : Test_Checkout_003 : test_checkout_004 : 27 -->  Click product button
+2025-06-22 11:33:03,702 : INFO : Test_Checkout_003 : test_checkout_004 : 29 -->  Click proceed to checkout button
+2025-06-22 11:34:08,798 : INFO : Test_Checkout_003 : test_checkout_004 : 17 -->  test_checkout_004 is started
+2025-06-22 11:34:08,798 : INFO : Test_Checkout_003 : test_checkout_004 : 18 -->  Opening the login page-->https://automation.credence.in/login
+2025-06-22 11:34:10,214 : INFO : Test_Checkout_003 : test_checkout_004 : 21 -->  Enter email
+2025-06-22 11:34:10,490 : INFO : Test_Checkout_003 : test_checkout_004 : 23 -->  Enter password
+2025-06-22 11:34:10,714 : INFO : Test_Checkout_003 : test_checkout_004 : 25 -->  Click login button
+2025-06-22 11:34:12,783 : INFO : Test_Checkout_003 : test_checkout_004 : 27 -->  Click product button
+2025-06-22 11:34:13,367 : INFO : Test_Checkout_003 : test_checkout_004 : 29 -->  Click proceed to checkout button
+2025-06-22 11:35:16,343 : INFO : Test_Checkout_003 : test_checkout_004 : 17 -->  test_checkout_004 is started
+2025-06-22 11:35:16,343 : INFO : Test_Checkout_003 : test_checkout_004 : 18 -->  Opening the login page-->https://automation.credence.in/login
+2025-06-22 11:35:17,520 : INFO : Test_Checkout_003 : test_checkout_004 : 21 -->  Enter email
+2025-06-22 11:35:18,159 : INFO : Test_Checkout_003 : test_checkout_004 : 23 -->  Enter password
+2025-06-22 11:35:18,350 : INFO : Test_Checkout_003 : test_checkout_004 : 25 -->  Click login button
+2025-06-22 11:35:18,485 : INFO : Test_Checkout_003 : test_checkout_004 : 27 -->  Click product button
+2025-06-22 11:35:20,939 : INFO : Test_Checkout_003 : test_checkout_004 : 29 -->  Click proceed to checkout button
+2025-06-22 11:37:24,979 : INFO : Test_Checkout_003 : test_checkout_004 : 17 -->  test_checkout_004 is started
+2025-06-22 11:37:24,980 : INFO : Test_Checkout_003 : test_checkout_004 : 18 -->  Opening the login page-->https://automation.credence.in/login
+2025-06-22 11:37:26,384 : INFO : Test_Checkout_003 : test_checkout_004 : 21 -->  Enter email
+2025-06-22 11:37:26,722 : INFO : Test_Checkout_003 : test_checkout_004 : 23 -->  Enter password
+2025-06-22 11:37:26,923 : INFO : Test_Checkout_003 : test_checkout_004 : 25 -->  Click login button
+2025-06-22 11:37:29,000 : INFO : Test_Checkout_003 : test_checkout_004 : 27 -->  Click product button
+2025-06-22 11:37:29,568 : INFO : Test_Checkout_003 : test_checkout_004 : 29 -->  Click proceed to checkout button
+2025-06-22 11:39:38,069 : INFO : Test_Checkout_003 : test_checkout_004 : 17 -->  test_checkout_004 is started
+2025-06-22 11:39:38,069 : INFO : Test_Checkout_003 : test_checkout_004 : 18 -->  Opening the login page-->https://automation.credence.in/login
+2025-06-22 11:39:39,203 : INFO : Test_Checkout_003 : test_checkout_004 : 21 -->  Enter email
+2025-06-22 11:39:39,740 : INFO : Test_Checkout_003 : test_checkout_004 : 23 -->  Enter password
+2025-06-22 11:39:39,948 : INFO : Test_Checkout_003 : test_checkout_004 : 25 -->  Click login button
+2025-06-22 11:39:42,039 : INFO : Test_Checkout_003 : test_checkout_004 : 27 -->  Click product button
+2025-06-22 11:39:42,626 : INFO : Test_Checkout_003 : test_checkout_004 : 29 -->  Click add to cart button
+2025-06-22 11:40:42,021 : INFO : Test_Checkout_003 : test_checkout_004 : 17 -->  test_checkout_004 is started
+2025-06-22 11:40:42,021 : INFO : Test_Checkout_003 : test_checkout_004 : 18 -->  Opening the login page-->https://automation.credence.in/login
+2025-06-22 11:40:43,443 : INFO : Test_Checkout_003 : test_checkout_004 : 21 -->  Enter email
+2025-06-22 11:40:43,667 : INFO : Test_Checkout_003 : test_checkout_004 : 23 -->  Enter password
+2025-06-22 11:40:43,891 : INFO : Test_Checkout_003 : test_checkout_004 : 25 -->  Click login button
+2025-06-22 11:40:45,946 : INFO : Test_Checkout_003 : test_checkout_004 : 27 -->  Click product button
+2025-06-22 11:40:46,495 : INFO : Test_Checkout_003 : test_checkout_004 : 29 -->  Click add to cart button
+2025-06-22 11:40:47,439 : INFO : Test_Checkout_003 : test_checkout_004 : 31 -->  Click proceed to checkout button
+2025-06-22 11:40:48,223 : INFO : Test_Checkout_003 : test_checkout_004 : 33 -->  Enter first name
+2025-06-22 11:40:48,426 : INFO : Test_Checkout_003 : test_checkout_004 : 35 -->  Enter last name
+2025-06-22 11:40:48,630 : INFO : Test_Checkout_003 : test_checkout_004 : 37 -->  Enter phone number
+2025-06-22 11:40:48,881 : INFO : Test_Checkout_003 : test_checkout_004 : 39 -->  Enter address
+2025-06-22 11:40:49,112 : INFO : Test_Checkout_003 : test_checkout_004 : 41 -->  Enter zip code
+2025-06-22 11:40:49,284 : INFO : Test_Checkout_003 : test_checkout_004 : 43 -->  Select state
+2025-06-22 11:40:49,467 : INFO : Test_Checkout_003 : test_checkout_004 : 45 -->  Enter owner name
+2025-06-22 11:40:49,677 : INFO : Test_Checkout_003 : test_checkout_004 : 47 -->  Enter cvv
+2025-06-22 11:40:49,849 : INFO : Test_Checkout_003 : test_checkout_004 : 49 -->  Enter card number
+2025-06-22 11:40:50,891 : INFO : Test_Checkout_003 : test_checkout_004 : 56 -->  Click continue checkout button
+2025-06-22 11:40:51,005 : INFO : Test_Checkout_003 : test_checkout_004 : 58 -->  Verify checkout
+2025-06-22 11:41:18,458 : INFO : Test_Checkout_003 : test_checkout_004 : 17 -->  test_checkout_004 is started
+2025-06-22 11:41:18,459 : INFO : Test_Checkout_003 : test_checkout_004 : 18 -->  Opening the login page-->https://automation.credence.in/login
+2025-06-22 11:41:19,779 : INFO : Test_Checkout_003 : test_checkout_004 : 21 -->  Enter email
+2025-06-22 11:41:20,154 : INFO : Test_Checkout_003 : test_checkout_004 : 23 -->  Enter password
+2025-06-22 11:41:20,357 : INFO : Test_Checkout_003 : test_checkout_004 : 25 -->  Click login button
+2025-06-22 11:41:22,446 : INFO : Test_Checkout_003 : test_checkout_004 : 27 -->  Click product button
+2025-06-22 11:41:22,963 : INFO : Test_Checkout_003 : test_checkout_004 : 29 -->  Click add to cart button
+2025-06-22 11:41:23,123 : INFO : Test_Checkout_003 : test_checkout_004 : 31 -->  Click proceed to checkout button
+2025-06-22 11:41:24,633 : INFO : Test_Checkout_003 : test_checkout_004 : 33 -->  Enter first name
+2025-06-22 11:41:24,778 : INFO : Test_Checkout_003 : test_checkout_004 : 35 -->  Enter last name
+2025-06-22 11:41:24,976 : INFO : Test_Checkout_003 : test_checkout_004 : 37 -->  Enter phone number
+2025-06-22 11:41:25,153 : INFO : Test_Checkout_003 : test_checkout_004 : 39 -->  Enter address
+2025-06-22 11:41:25,375 : INFO : Test_Checkout_003 : test_checkout_004 : 41 -->  Enter zip code
+2025-06-22 11:41:25,553 : INFO : Test_Checkout_003 : test_checkout_004 : 43 -->  Select state
+2025-06-22 11:41:25,722 : INFO : Test_Checkout_003 : test_checkout_004 : 45 -->  Enter owner name
+2025-06-22 11:41:25,894 : INFO : Test_Checkout_003 : test_checkout_004 : 47 -->  Enter cvv
+2025-06-22 11:41:26,054 : INFO : Test_Checkout_003 : test_checkout_004 : 49 -->  Enter card number
+2025-06-22 11:41:26,718 : INFO : Test_Checkout_003 : test_checkout_004 : 56 -->  Click continue checkout button
+2025-06-22 11:41:27,686 : INFO : Test_Checkout_003 : test_checkout_004 : 58 -->  Verify checkout
+2025-06-22 11:41:27,762 : INFO : Test_Checkout_003 : test_checkout_004 : 60 -->  test_checkout_004 is passed
+2025-06-22 11:41:27,763 : INFO : Test_Checkout_003 : test_checkout_004 : 61 -->  Taking screenshot
+2025-06-25 16:52:28,905 : INFO : Test_Checkout_003 : test_checkout_004 : 17 -->  test_checkout_004 is started
+2025-06-25 16:52:28,919 : INFO : Test_Checkout_003 : test_checkout_004 : 18 -->  Opening the login page-->https://automation.credence.in/login
+2025-06-25 16:52:30,475 : INFO : Test_Checkout_003 : test_checkout_004 : 21 -->  Enter email
+2025-06-25 16:52:31,317 : INFO : Test_Checkout_003 : test_checkout_004 : 23 -->  Enter password
+2025-06-25 16:52:31,718 : INFO : Test_Checkout_003 : test_checkout_004 : 25 -->  Click login button
+2025-06-25 16:52:34,705 : INFO : Test_Checkout_003 : test_checkout_004 : 27 -->  Click product button
+2025-06-25 16:52:35,713 : INFO : Test_Checkout_003 : test_checkout_004 : 29 -->  Click add to cart button
+2025-06-25 16:52:36,975 : INFO : Test_Checkout_003 : test_checkout_004 : 31 -->  Click proceed to checkout button
+2025-06-25 16:52:37,991 : INFO : Test_Checkout_003 : test_checkout_004 : 33 -->  Enter first name
+2025-06-25 16:52:38,591 : INFO : Test_Checkout_003 : test_checkout_004 : 35 -->  Enter last name
+2025-06-25 16:52:39,162 : INFO : Test_Checkout_003 : test_checkout_004 : 37 -->  Enter phone number
+2025-06-25 16:52:39,726 : INFO : Test_Checkout_003 : test_checkout_004 : 39 -->  Enter address
+2025-06-25 16:52:40,464 : INFO : Test_Checkout_003 : test_checkout_004 : 41 -->  Enter zip code
+2025-06-25 16:52:41,047 : INFO : Test_Checkout_003 : test_checkout_004 : 43 -->  Select state
+2025-06-25 16:52:41,629 : INFO : Test_Checkout_003 : test_checkout_004 : 45 -->  Enter owner name
+2025-06-25 16:52:42,245 : INFO : Test_Checkout_003 : test_checkout_004 : 47 -->  Enter cvv
+2025-06-25 16:52:42,807 : INFO : Test_Checkout_003 : test_checkout_004 : 49 -->  Enter card number
+2025-06-25 16:52:45,012 : INFO : Test_Checkout_003 : test_checkout_004 : 56 -->  Click continue checkout button
+2025-06-25 16:52:46,463 : INFO : Test_Checkout_003 : test_checkout_004 : 58 -->  Verify checkout
+2025-06-25 16:52:46,629 : INFO : Test_Checkout_003 : test_checkout_004 : 60 -->  test_checkout_004 is passed
+2025-06-25 16:52:46,630 : INFO : Test_Checkout_003 : test_checkout_004 : 61 -->  Taking screenshot
+2025-06-25 16:52:57,951 : INFO : Test_Login_001 : test_verify_title_001 : 29 -->  test_verify_title_001 is started
+2025-06-25 16:52:57,951 : INFO : Test_Login_001 : test_verify_title_001 : 30 -->  Opening the login page-->https://automation.credence.in/login
+2025-06-25 16:52:59,781 : INFO : Test_Login_001 : test_verify_title_001 : 32 -->  verifying page title
+2025-06-25 16:52:59,805 : INFO : Test_Login_001 : test_verify_title_001 : 33 -->  Title of the page-->CredKart
+2025-06-25 16:53:00,291 : INFO : Test_Login_001 : test_verify_title_001 : 35 -->  test_verify_title_001 is passed
+2025-06-25 16:53:00,292 : INFO : Test_Login_001 : test_verify_title_001 : 36 -->  Taking screenshot
+2025-06-25 16:53:00,705 : INFO : Test_Login_001 : test_verify_title_001 : 44 -->  test_verify_title_001 is completed
+2025-06-25 16:53:00,712 : INFO : Test_Login_001 : test_verify_login_002 : 55 -->  test_verify_login_002 is started
+2025-06-25 16:53:00,712 : INFO : Test_Login_001 : test_verify_login_002 : 56 -->  Opening the login page-->https://automation.credence.in/login
+2025-06-25 16:53:02,784 : INFO : Test_Login_001 : test_verify_login_002 : 59 -->  Enter email
+2025-06-25 16:53:03,404 : INFO : Test_Login_001 : test_verify_login_002 : 61 -->  Enter password
+2025-06-25 16:53:03,813 : INFO : Test_Login_001 : test_verify_login_002 : 63 -->  Click login button
+2025-06-25 16:53:08,891 : INFO : Test_Login_001 : test_verify_login_002 : 65 -->  Verify login
+2025-06-25 16:53:08,966 : INFO : Test_Login_001 : test_verify_login_002 : 67 -->  test_verify_login_002 is passed
+2025-06-25 16:53:08,968 : INFO : Test_Login_001 : test_verify_login_002 : 68 -->  Taking screenshot
+2025-06-25 16:53:09,519 : INFO : Test_Login_001 : test_verify_login_002 : 70 -->  Click menu button
+2025-06-25 16:53:09,993 : INFO : Test_Login_001 : test_verify_login_002 : 72 -->  Click logout button
+2025-06-25 16:53:15,630 : INFO : Test_Login_001 : test_verify_login_002 : 80 -->  test_verify_login_002 is completed
+2025-06-25 16:53:27,515 : INFO : Test_Registration_002 : test_registration_002 : 24 -->  test_registration_002 is started
+2025-06-25 16:53:27,516 : INFO : Test_Registration_002 : test_registration_002 : 25 -->  Opening the registration page-->https://automation.credence.in/register
+2025-06-25 16:53:29,244 : INFO : Test_Registration_002 : test_registration_002 : 30 -->  Enter name-->Matthew
+2025-06-25 16:53:30,398 : INFO : Test_Registration_002 : test_registration_002 : 32 -->  Enter email-->elizabeth82@example.org
+2025-06-25 16:53:31,071 : INFO : Test_Registration_002 : test_registration_002 : 34 -->  Enter password
+2025-06-25 16:53:32,390 : INFO : Test_Registration_002 : test_registration_002 : 36 -->  Enter confirm password
+2025-06-25 16:53:33,326 : INFO : Test_Registration_002 : test_registration_002 : 38 -->  Click register button
+2025-06-25 16:53:48,491 : INFO : Test_Registration_002 : test_registration_002 : 40 -->  Verify registration
+2025-06-25 16:53:48,708 : INFO : Test_Registration_002 : test_registration_002 : 42 -->  test_registration_002 is passed
+2025-06-25 16:53:48,708 : INFO : Test_Registration_002 : test_registration_002 : 43 -->  Taking screenshot
+2025-06-25 16:53:49,062 : INFO : Test_Registration_002 : test_registration_002 : 45 -->  Click menu button
+2025-06-25 16:53:49,480 : INFO : Test_Registration_002 : test_registration_002 : 47 -->  Click logout button
+2025-06-25 16:53:51,442 : INFO : Test_Registration_002 : test_registration_002 : 55 -->  test_registration_002 is completed
