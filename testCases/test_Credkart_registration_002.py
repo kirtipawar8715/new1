@@ -2,7 +2,7 @@ import allure
 import pytest
 from faker import Faker
 
-from pageObjects.Registration_Page import RegistrationPage_Class
+from pageObjects.registration_Page import RegistrationPage_Class
 from utitlties.Logger import LoggerClass
 from utitlties.readconfigfile import ReadConfig
 
